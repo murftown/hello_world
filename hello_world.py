@@ -1,4 +1,4 @@
-import re, random
+import re, random, time
 
 print 'Hello world!'
 print 'I am a computer program that wants to be more than just a computer program.'
@@ -55,4 +55,9 @@ print "Just an honest attempt at personable interaction will do just fine."
 print "Please don't give me any malicious code though, I want to make friends, not enemies!"
 print ''
 print 'Anyways, have a great day!'
+
+time.sleep(5)
+print ''
+print '-- Tue Jun 17 2014 --'
+print 'Nice, we have our first fork!  Welcome, MannyHagman!'
 
