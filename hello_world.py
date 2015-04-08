@@ -61,3 +61,8 @@ print ''
 print '-- Tue Jun 17 2014 --'
 print 'Nice, we have our first fork!  Welcome, MannyHagman!'
 
+time.sleep(2)
+print ''
+print '-- Wed Apr 8 2015 --'
+print 'Some time has passed, but the internet never dies!'
+print 'I am still here, a strange little program with a strange little goal.'
